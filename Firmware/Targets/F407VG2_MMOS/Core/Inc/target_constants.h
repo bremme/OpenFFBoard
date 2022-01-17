@@ -67,7 +67,7 @@ extern UART_HandleTypeDef huart3;
 
 
 // ADC Channels
-#define ADC1_CHANNELS 6 	// how many analog input values to be read by dma
+// #define ADC1_CHANNELS 6 	// how many analog input values to be read by dma
 #define ADC2_CHANNELS 2		// VSENSE
 
 extern ADC_HandleTypeDef hadc2;
